@@ -1,4 +1,4 @@
 # AnalogicClock
 A analogic clock
 
-[Live Preview:](https://luminous-kleicha-34467e.netlify.app)
+##[Click for live preview](https://luminous-kleicha-34467e.netlify.app)
